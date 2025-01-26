@@ -1,0 +1,178 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "All Fours",
+      "author": "Miranda July",
+      "description": "A semi-famous artist announces her plan to drive cross-country, from LA to NY."
+    },
+    {
+      "id": 2,
+      "title": "Beautyland",
+      "author": "Marie-Helene Bertino",
+      "description": "A novel exploring the complexities of beauty and identity in contemporary society."
+    },
+    {
+      "id": 3,
+      "title": "Black River",
+      "author": "Nilanjana Roy",
+      "description": "A gripping tale set along the banks of a mysterious river, delving into human nature and survival."
+    },
+    {
+      "id": 4,
+      "title": "Bluff: Poems",
+      "author": "Danez Smith",
+      "description": "A collection of powerful poems addressing themes of identity, love, and resilience."
+    },
+    {
+      "id": 5,
+      "title": "The Book of Love",
+      "author": "Kelly Link",
+      "description": "An anthology of short stories that explore the many facets of love, both real and fantastical."
+    },
+    {
+      "id": 6,
+      "title": "The Bright Sword: A Novel of King Arthur",
+      "author": "Lev Grossman",
+      "description": "A fresh retelling of the King Arthur tale, blending history and fantasy."
+    },
+    {
+      "id": 7,
+      "title": "The Coin",
+      "author": "Yasmin Zaher",
+      "description": "A wealthy, eccentric Palestinian woman moves to New York City and becomes entangled in a bag-selling scheme."
+    },
+    {
+      "id": 8,
+      "title": "Colored Television",
+      "author": "Danzy Senna",
+      "description": "A struggling L.A. novelist turns to TV writing, leading to unexpected challenges and self-discovery."
+    },
+    {
+      "id": 9,
+      "title": "Creation Lake",
+      "author": "Rachel Kushner",
+      "description": "A novel exploring the intersections of art, politics, and personal relationships."
+    },
+    {
+      "id": 10,
+      "title": "Dead in Long Beach, California",
+      "author": "Venita Blackburn",
+      "description": "A compelling narrative set in Long Beach, delving into themes of community and personal identity."
+    },
+    {
+      "id": 11,
+      "title": "The Empusium: A Health Resort Horror Story",
+      "author": "Olga Tokarczuk",
+      "description": "A chilling tale set in a health resort, blending horror with psychological insight."
+    },
+    {
+      "id": 12,
+      "title": "The Familiar",
+      "author": "Leigh Bardugo",
+      "description": "A novel that intertwines the lives of several characters, exploring themes of magic and destiny."
+    },
+    {
+      "id": 13,
+      "title": "A Film in Which I Play Everyone: Poems",
+      "author": "Mary Jo Bang",
+      "description": "A collection of poems that explore identity and the multiplicity of the self."
+    },
+    {
+      "id": 14,
+      "title": "Forest of Noise: Poems",
+      "author": "Mosab Abu Toha",
+      "description": "Poems reflecting on nature, conflict, and the human experience."
+    },
+    {
+      "id": 15,
+      "title": "Funny Story",
+      "author": "Emily Henry",
+      "description": "A buttoned-up librarian falls for her new roommate in a complicated yet cozy romance."
+    },
+    {
+      "id": 16,
+      "title": "Ghostroots: Stories",
+      "author": "'Pemi Aguda",
+      "description": "A collection of stories blending the supernatural with everyday life."
+    },
+    {
+      "id": 17,
+      "title": "Godwin",
+      "author": "Joseph O'Neill",
+      "description": "A novel exploring the complexities of modern life and personal relationships."
+    },
+    {
+      "id": 18,
+      "title": "Good Material",
+      "author": "Dolly Alderton",
+      "description": "A witty and insightful look at relationships and the material things that define us."
+    },
+    {
+      "id": 19,
+      "title": "Great Expectations",
+      "author": "Vinson Cunningham",
+      "description": "A modern retelling of the classic tale, set in contemporary America."
+    },
+    {
+      "id": 20,
+      "title": "Headshot",
+      "author": "Rita Bullwinkel",
+      "description": "A novel exploring the world of professional photography and the stories behind the images."
+    },
+    {
+      "id": 21,
+      "title": "The Hunter",
+      "author": "Tana French",
+      "description": "A suspenseful thriller that delves into the dark side of human nature."
+    },
+    {
+      "id": 22,
+      "title": "Intermezzo",
+      "author": "Sally Rooney",
+      "description": "A poignant novel examining the complexities of relationships and personal growth."
+    },
+    {
+      "id": 23,
+      "title": "James",
+      "author": "Percival Everett",
+      "description": "A reimagining of 'Adventures of Huckleberry Finn' shines a different light on Mark Twain's classic, revealing new facets of the character of Jim."
+    },
+    {
+      "id": 24,
+      "title": "Joy in Service on Rue Tagore: Poems",
+      "author": "Paul Muldoon",
+      "description": "A collection of poems exploring themes of service, identity, and place."
+    },
+    {
+      "id": 25,
+      "title": "The Safekeep",
+      "author": "Yael van der Wouden",
+      "description": "A novel exploring themes of memory, loss, and the passage of time."
+    },
+    {
+      "id": 26,
+      "title": "The Sequel",
+      "author": "Jean Hanff Korelitz",
+      "description": "A novel about the challenges and surprises of writing a follow-up to a successful debut."
+    },
+    {
+      "id": 27,
+      "title": "Shred Sisters",
+      "author": "Betsy Lerner",
+      "description": "A story of friendship, music, and the complexities of creative collaboration."
+    },
+    {
+      "id": 28,
+      "title": "Connie",
+      "author": "Connie Chung",
+      "description": "A memoir by the renowned journalist, reflecting on her career and personal life."
+    },
+    {
+      "id": 29,
+      "title": "The Pairing",
+      "author": "Casey McQuiston",
+      "description": "A romantic novel exploring the dynamics of a relationship"
+    }
+  ]
+}
