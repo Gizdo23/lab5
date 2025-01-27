@@ -82,7 +82,7 @@ export default {
 
 @media (max-width: 768px) {
   .nav-links {
-    display: none; /* Hide links for mobile devices */
+    display: none;
   }
 }
 </style>

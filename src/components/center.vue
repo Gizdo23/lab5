@@ -38,15 +38,16 @@ export default {
 
 <style scoped>
 .center {
-  background-color: #ffeb3b; /* Yellow background */
-  width: 100%; /* Full width of the viewport */
-  min-height: calc(100vh - 60px); /* Full height minus navbar */
+  background-color: #ffeb3b;
+  width: 100%;
+  min-height: calc(100vh - 60px);
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly; /* Space out boxes evenly */
+  justify-content: space-evenly;
   align-items: center;
   padding: 20px 0;
-  box-sizing: border-box; /* Include padding in width/height calculation */
+  box-sizing: border-box;
+  color: black;
 }
 h1,
 h2 {
