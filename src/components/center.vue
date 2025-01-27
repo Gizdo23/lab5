@@ -1,7 +1,7 @@
 <template>
   <div class="center">
     <h1>Welcome</h1>
-    <h2>Book recomentadions:</h2>
+    <h2>Book recommendations:</h2>
     <ul>
       <li v-for="book in randomBooks" :key="book.title">
         <h3>{{ book.title }}</h3>
