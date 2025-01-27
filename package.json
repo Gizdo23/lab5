@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
-    "server": "json-server --watch src/books.json --port 8000"
+    "server": "json-server --watch src/public/books.json --port 8000"
   },
   "dependencies": {
     "pinia": "^2.3.1",

@@ -13,21 +13,19 @@
 </template>
 
 <script>
-import { useBookStore } from '../stores/bookstore'
-import { onMounted, computed } from 'vue'
+import { computed } from 'vue'
 
 export default {
   name: 'Center',
-
-  setup() {
-    const bookStore = useBookStore()
-
-    onMounted(() => {
-      bookStore.fetchBooks()
-    })
-
+  props: {
+    books: {
+      type: Array,
+      required: true,
+    },
+  },
+  setup(props) {
     const randomBooks = computed(() => {
-      const shuffled = bookStore.books.sort(() => 0.5 - Math.random())
+      const shuffled = props.books.sort(() => 0.5 - Math.random())
       return shuffled.slice(0, 3)
     })
 
